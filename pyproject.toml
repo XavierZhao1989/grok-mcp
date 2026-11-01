@@ -29,9 +29,9 @@ dev = ["pytest>=8.0", "pytest-asyncio>=0.23", "ruff>=0.16,<0.17"]
 grok-mcp = "grok.server:main"
 
 [project.urls]
-Homepage = "https://github.com/YorickLane/grok-mcp"
-Issues = "https://github.com/YorickLane/grok-mcp/issues"
-Changelog = "https://github.com/YorickLane/grok-mcp/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/XavierZhao1989/grok-mcp"
+Issues = "https://github.com/XavierZhao1989/grok-mcp/issues"
+Changelog = "https://github.com/XavierZhao1989/grok-mcp/blob/main/CHANGELOG.md"
 
 [build-system]
 requires = ["hatchling"]

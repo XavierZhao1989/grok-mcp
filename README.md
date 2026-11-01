@@ -103,7 +103,7 @@ Files API, stateful chat, live model pricing).
 ## Quick start
 
 ```bash
-git clone https://github.com/YorickLane/grok-mcp
+git clone https://github.com/XavierZhao1989/grok-mcp
 cd grok-mcp
 uv venv && uv pip install -e .
 
@@ -117,7 +117,7 @@ is a different project):
 
 ```bash
 claude mcp add -s user -t stdio grok -- \
-  uvx --from git+https://github.com/YorickLane/grok-mcp grok-mcp
+  uvx --from git+https://github.com/XavierZhao1989/grok-mcp grok-mcp
 ```
 
 Set `XAI_API_KEY` in your shell env (get one at
@@ -225,7 +225,7 @@ verdict = probe_api_endpoint(
 # if verdict.match: schema still current; proceed
 ```
 
-See [github.com/YorickLane/epistemics-mcp](https://github.com/YorickLane/epistemics-mcp).
+See [github.com/XavierZhao1989/epistemics-mcp](https://github.com/XavierZhao1989/epistemics-mcp).
 
 ## Development
 
